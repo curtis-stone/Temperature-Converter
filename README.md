@@ -1,5 +1,5 @@
 # Temperature-Converter
-Takes the temperature in Fahrenheit and returns it in both Celsius and Kelvin
+Takes the temperature in Fahrenheit and returns it in both Celsius and Kelvin through JavaScript
 
 // tempScale function holds an object w/ each conversion
 
